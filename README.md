@@ -1,5 +1,6 @@
 # git_v1
-´´´bash
+
+```Bash
 git reflog
 git reset --hard [id]
 ```
